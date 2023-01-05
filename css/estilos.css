@@ -1,5 +1,10 @@
 body
 {
+    #cabecera
+    {
+        background: #21;
+    }
+
     color: rgb(65, 62, 62);
     text-align: center;
     font-family: Arial;
